@@ -31,8 +31,10 @@ tar -zxvf calculation.tar.gz
 
 ### Running the code
 The program will run from the command line. It has two versions:
+```
 calc <engine name><file list>
 calc <engine name><list of integers>
+```
 That is, to use the calculation engines, the following command line examples
 are valid.
 
@@ -52,7 +54,7 @@ The unit test file is written and placed in the folder unit_test. User can run t
 command in following.
 
 ```
-.\run unit test.sh
+.\run_unit_test.sh
 ```
 
 ## Authors
@@ -61,5 +63,5 @@ command in following.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
