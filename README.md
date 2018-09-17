@@ -3,11 +3,11 @@ A program that performs calculations on a series of integers
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+What things user need to install the software.
 
 ```
 Make >=4.1
@@ -54,7 +54,7 @@ The unit test file is written and placed in the folder unit_test. User can run t
 command in following.
 
 ```
-.\run_unit_test.sh
+bash run_unit_test.sh
 ```
 
 ## Authors
